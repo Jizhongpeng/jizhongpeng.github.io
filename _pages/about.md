@@ -35,7 +35,7 @@ https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Li_AIGIQA-20K_A_Large
 
 （3）视频赛道所用数据集（已开源）：T2VQA-DB https://arxiv.org/abs/2403.11956  ACM MM 24
 
-参加NTIRE质量评价比赛，获得前三名。
+参加NTIRE质量评价比赛，获得前三名。https://multimedia.sjtu.edu.cn/index.php?m=home&c=View&a=index&aid=150
 
 （1）参加DXOMARK 举办的手机拍照人像质量评价挑战赛，获得第三名。比赛总结报告：Deep Portrait Quality Assessment. A NTIRE 2024 Challenge Survey
 https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Chahine_Deep_Portrait_Quality_Assessment._A_NTIRE_2024_Challenge_Survey_CVPRW_2024_paper.html 
