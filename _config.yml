@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhongpeng Ji"
-description              : # "My Homepage."
+description              : "My Homepage."
 repository               : "Jizhongpeng/jizhongpeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jizhongpeng@aliyun.com"
   researchgate     : "https://www.researchgate.net/profile/Zhongpeng-Ji"
   uri              :
